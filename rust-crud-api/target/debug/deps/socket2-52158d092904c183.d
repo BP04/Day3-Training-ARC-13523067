@@ -1,0 +1,9 @@
+C:\Users\Benedict Presley\ARC\study\rust-crud-api\target\debug\deps\libsocket2-52158d092904c183.rmeta: C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\lib.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockaddr.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\socket.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockref.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\Benedict Presley\ARC\study\rust-crud-api\target\debug\deps\socket2-52158d092904c183.d: C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\lib.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockaddr.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\socket.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockref.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\lib.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockaddr.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\socket.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sockref.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.8\src\sys\windows.rs:

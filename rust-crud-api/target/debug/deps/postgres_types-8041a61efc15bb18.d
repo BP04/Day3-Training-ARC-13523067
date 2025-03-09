@@ -1,0 +1,9 @@
+C:\Users\Benedict Presley\ARC\study\rust-crud-api\target\debug\deps\libpostgres_types-8041a61efc15bb18.rmeta: C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\lib.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\pg_lsn.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\private.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\special.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\type_gen.rs
+
+C:\Users\Benedict Presley\ARC\study\rust-crud-api\target\debug\deps\postgres_types-8041a61efc15bb18.d: C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\lib.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\pg_lsn.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\private.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\special.rs C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\type_gen.rs
+
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\lib.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\pg_lsn.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\private.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\special.rs:
+C:\Users\Benedict\ Presley\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.9\src\type_gen.rs:

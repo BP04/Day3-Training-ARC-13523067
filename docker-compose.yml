@@ -1,0 +1,53 @@
+version: '3.9'
+
+services:
+  rustapp:
+    container_name: arc3_rustapp
+    image: rust:1.0.0
+    build:
+      context: ./rust-crud-api
+      dockerfile: Dockerfile
+      args:
+        DATABASE_URL: postgres://postgres:123@db:5432/postgres
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    networks:
+      - app-network
+  
+  db:
+    container_name: arc3_db
+    image: postgres:12.0
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - app-network
+  
+  frontend:
+    container_name: arc3_frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - rustapp
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  pgdata: {}
